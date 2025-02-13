@@ -345,7 +345,7 @@
   color: #fff;
   padding: 60px 80px;
   display: flex;
-  justify-content: row;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 
